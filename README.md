@@ -12,7 +12,7 @@ Una app en React + Vite + TailwindCSS (V3) para practicar y demostrar cómo impl
   <img src="https://i.imgur.com/YYYYY.png" width="600" alt="Preview 2" />
 </p>
 
-(Si subís imágenes a Imgur o GitHub, reemplazá las URLs por las tuyas)
+(A editar por imagenes reales)
 
 ---
 
@@ -43,7 +43,7 @@ Una app en React + Vite + TailwindCSS (V3) para practicar y demostrar cómo impl
 
 ```bash
 git clone https://github.com/Andrew-Mtz/tailwind-theme-lab-V3.git
-cd tailwind-theme-lab
+cd tailwind-theme-lab-V3
 npm install
 npm run dev
 ```
