@@ -42,8 +42,8 @@ Una app en React + Vite + TailwindCSS (V4) para practicar y demostrar cómo impl
 ## 📦 Instalación y uso local
 
 ```bash
-git clone https://github.com/Andrew-Mtz/tailwind-theme-lab-V4.git
-cd tailwind-theme-lab-V3
+git clone https://github.com/Andrew-Mtz/tailwind-theme-lab-v4.git
+cd tailwind-theme-lab-v4
 npm install
 npm run dev
 ```
