@@ -1,0 +1,13 @@
+.theme-space {
+  --color-bg: #0a0f2c;
+  --color-surface: #1a1f4a;
+  --color-text: #e0e7ff;
+  --color-text-secondary: #c7d2fe;
+  --color-primary: #6366f1;
+  --color-primary-hover: #4f46e5;
+  --color-on-primary: #ffffff;
+  --color-secondary: #e0e7ff;
+  --color-secondary-hover: #1e293b;
+  --color-muted: #475569;
+  --color-border: #334155;
+}

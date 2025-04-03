@@ -1,0 +1,13 @@
+.theme-pastel {
+  --color-bg: #fff1f2;
+  --color-surface: #fde2e4;
+  --color-text: #5b2a77;
+  --color-text-secondary: #a162c2;
+  --color-primary: #f472b6;
+  --color-primary-hover: #ec4899;
+  --color-on-primary: #5b2a77;
+  --color-secondary: #5b2a77;
+  --color-secondary-hover: #fce7f3;
+  --color-muted: #f8bbd0;
+  --color-border: #fbcfe8;
+}

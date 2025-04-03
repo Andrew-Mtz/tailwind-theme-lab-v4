@@ -1,0 +1,13 @@
+.theme-nature {
+  --color-bg: #e6f4ea;
+  --color-surface: #c8e6c9;
+  --color-text: #1e3a1e;
+  --color-text-secondary: #3c6255;
+  --color-primary: #388e3c;
+  --color-primary-hover: #2e7d32;
+  --color-on-primary: #ffffff;
+  --color-secondary: #1e3a1e;
+  --color-secondary-hover: #dcedc8;
+  --color-muted: #a5d6a7;
+  --color-border: #a5d6a7;
+}

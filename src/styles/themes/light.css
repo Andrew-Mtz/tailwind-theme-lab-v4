@@ -1,14 +1,4 @@
-@import "tailwindcss";
-@import "./themes/light.css";
-@import "./themes/dark.css";
-@import "./themes/nature.css";
-@import "./themes/space.css";
-@import "./themes/pastel.css";
-@import "./themes/high-contrast.css";
-
-@theme {
-  --radius-radius: 0.5rem;
-
+.theme-light {
   --color-bg: #ffffff;
   --color-surface: #f9fafb;
   --color-text: #1f2937;

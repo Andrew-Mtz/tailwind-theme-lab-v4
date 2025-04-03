@@ -1,0 +1,13 @@
+.theme-high-contrast {
+  --color-bg: #000000;
+  --color-surface: #1a1f4a;
+  --color-text: #ffffff;
+  --color-text-secondary: #c7d2fe;
+  --color-primary: #ffff00;
+  --color-primary-hover: #eab308;
+  --color-on-primary: #000000;
+  --color-secondary: #ff00ff;
+  --color-secondary-hover: #c026d3;
+  --color-muted: #475569;
+  --color-border: #334155;
+}
