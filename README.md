@@ -1,6 +1,6 @@
 # 🎨 Tailwind Theme Lab
 
-Una app en React + Vite + TailwindCSS (V3) para practicar y demostrar cómo implementar múltiples temas con soporte de idioma y estilos accesibles. Ideal para usar como boilerplate o proyecto de portfolio.
+Una app en React + Vite + TailwindCSS (V4) para practicar y demostrar cómo implementar múltiples temas con soporte de idioma y estilos accesibles. Ideal para usar como boilerplate o proyecto de portfolio.
 
 ---
 
